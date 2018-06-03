@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Directory>
+  <File Readonly="false" Name="55D35282-443B-4436-A41A-A264E8B23BA2.jpeg" Size="102199" Data_creation="10.02.2018 9:38:28" Extension=".jpeg" />
+  <File Readonly="false" Name="Calculator-20180331T080416Z-001.zip" Size="218679" Data_creation="31.03.2018 11:05:29" Extension=".zip" />
+  <File Readonly="false" Name="Calculator.exe" Size="58368" Data_creation="31.03.2018 8:58:23" Extension=".exe" />
+  <File Readonly="false" Name="Championship_Smal_Andriy_SPU-1621_1520285700.zip" Size="205498" Data_creation="10.03.2018 10:41:19" Extension=".zip" />
+  <File Readonly="false" Name="Composite_Xml_File_System_Smal_Andriy_SPU-1621_1524249151.zip" Size="57365" Data_creation="21.04.2018 9:15:10" Extension=".zip" />
+  <File Readonly="false" Name="Cs_Les3_files_Smal_Andriy_SPU-1621_1515017388.7z" Size="101450" Data_creation="13.01.2018 9:58:19" Extension=".7z" />
+  <File Readonly="false" Name="Decorator_professions_Smal_Andriy_SPU-1621_1523992468.zip" Size="298196" Data_creation="21.04.2018 9:11:50" Extension=".zip" />
+  <File Readonly="false" Name="desktop.ini" Size="282" Data_creation="02.12.2017 9:01:57" Extension=".ini" />
+  <File Readonly="false" Name="Events_and_Delegates_1517609508.pdf" Size="35776" Data_creation="03.02.2018 10:20:00" Extension=".pdf" />
+  <File Readonly="false" Name="Flyweight_MilitaryBase_Smal_Andriy_SPU-1621_1524126102.7z" Size="1338920" Data_creation="21.04.2018 8:56:25" Extension=".7z" />
+  <File Readonly="false" Name="Pilot_Simulator_Smal_Andriy_SPU-1621_1519138991.rar" Size="38228" Data_creation="24.02.2018 9:01:06" Extension=".rar" />
+  <File Readonly="false" Name="Snake-20180210T064319Z-001.zip" Size="193625" Data_creation="10.02.2018 8:43:08" Extension=".zip" />
+  <File Readonly="false" Name="SQLQuery3_group_subQuiry.sql" Size="4961" Data_creation="13.01.2018 9:09:30" Extension=".sql" />
+  <File Readonly="false" Name="SQLQuery3_group_subQuiry_Smal_Andriy_SPU-1621_1515620974.7z" Size="1746" Data_creation="13.01.2018 9:09:25" Extension=".7z" />
+  <File Readonly="false" Name="SQLQuery4.sql" Size="4720" Data_creation="15.01.2018 20:53:13" Extension=".sql" />
+  <File Readonly="false" Name="SQLQuery5_Smal_Andriy_SPU-1621_1516916606.zip" Size="2724" Data_creation="27.01.2018 8:48:35" Extension=".zip" />
+  <File Readonly="false" Name="SQLQuery_4_Smal_Andriy_SPU-1621_1516049455.zip" Size="1290" Data_creation="20.01.2018 9:01:13" Extension=".zip" />
+  <File Readonly="false" Name="Storage_polymorph_Smal_Andriy_SPU-1621_1516605628.rar" Size="161646" Data_creation="27.01.2018 10:39:25" Extension=".rar" />
+  <File Readonly="false" Name="Stored_procedures_1517609537.7z" Size="614906" Data_creation="03.02.2018 10:20:51" Extension=".7z" />
+  <File Readonly="false" Name="Who_Wants_to_Become_a_Millionare_Smal_Andriy_SPU-1621_1523473695.zip" Size="0" Data_creation="14.04.2018 9:04:10" Extension=".zip" />
+  <File Readonly="false" Name="WildLife_Factory_Pattern_Smal_Andriy_SPU-1621_1523619052.rar" Size="0" Data_creation="14.04.2018 9:06:07" Extension=".rar" />
+  <File Readonly="false" Name="Тест по C#1.pdf" Size="550302" Data_creation="10.03.2018 9:02:30" Extension=".pdf" />
+  <directory Readonly="false" Name="Calculator">
+    <directory Readonly="false" Name=".vs">
+      <directory Readonly="false" Name="Calculator">
+        <directory Readonly="false" Name="v15">
+          <File Readonly="false" Name=".suo" Size="33792" Data_creation="31.03.2018 13:35:54" Extension=".suo" />
+        </directory>
+      </directory>
+    </directory>
+    <directory Readonly="false" Name="Calculator">
+      <directory Readonly="false" Name="bin">
+        <directory Readonly="false" Name="Debug">
+          <directory Readonly="false" Name=".vs">
+            <directory Readonly="false" Name="Calculator">
+              <directory Readonly="false" Name="v15">
+                <File Readonly="false" Name="_suo(1).doc" Size="4608" Data_creation="31.03.2018 11:06:10" Extension=".doc" />
+                <File Readonly="false" Name="_suo.doc" Size="4608" Data_creation="31.03.2018 11:06:10" Extension=".doc" />
+              </directory>
+            </directory>
+          </directory>
+          <File Readonly="false" Name="Calculator.exe" Size="58368" Data_creation="31.03.2018 11:06:10" Extension=".exe" />
+          <File Readonly="false" Name="Calculator.exe.config" Size="189" Data_creation="31.03.2018 11:06:10" Extension=".config" />
+          <File Readonly="false" Name="Calculator.pdb" Size="65024" Data_creation="31.03.2018 11:06:10" Extension=".pdb" />
+        </directory>
+      </directory>
+      <directory Readonly="false" Name="obj">
+        <directory Readonly="false" Name="Debug">
+          <directory Readonly="false" Name="TempPE" />
+          <File Readonly="false" Name="Calculator.csproj.CoreCompileInputs.cache" Size="42" Data_creation="31.03.2018 11:06:10" Extension=".cache" />
+          <File Readonly="false" Name="Calculator.csproj.FileListAbsolute.txt" Size="2812" Data_creation="31.03.2018 11:06:10" Extension=".txt" />
+          <File Readonly="false" Name="Calculator.csproj.GenerateResource.Cache" Size="1012" Data_creation="31.03.2018 11:06:10" Extension=".Cache" />
+          <File Readonly="false" Name="Calculator.csprojResolveAssemblyReference.cache" Size="2384" Data_creation="31.03.2018 11:06:10" Extension=".cache" />
+          <File Readonly="false" Name="Calculator.exe" Size="58368" Data_creation="31.03.2018 11:06:10" Extension=".exe" />
+          <File Readonly="false" Name="Calculator.Form1.resources" Size="26315" Data_creation="31.03.2018 11:06:10" Extension=".resources" />
+          <File Readonly="false" Name="Calculator.pdb" Size="65024" Data_creation="31.03.2018 11:06:10" Extension=".pdb" />
+          <File Readonly="false" Name="Calculator.Properties.Resources.resources" Size="180" Data_creation="31.03.2018 11:06:10" Extension=".resources" />
+          <File Readonly="false" Name="CoreCompileInputs.cache" Size="42" Data_creation="31.03.2018 11:06:39" Extension=".cache" />
+          <File Readonly="false" Name="DesignTimeResolveAssemblyReferences.cache" Size="1464" Data_creation="31.03.2018 11:06:10" Extension=".cache" />
+          <File Readonly="false" Name="DesignTimeResolveAssemblyReferencesInput.cache" Size="7200" Data_creation="31.03.2018 11:06:10" Extension=".cache" />
+          <File Readonly="false" Name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" Size="0" Data_creation="31.03.2018 11:06:10" Extension=".cs" />
+          <File Readonly="false" Name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" Size="0" Data_creation="31.03.2018 11:06:10" Extension=".cs" />
+          <File Readonly="false" Name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" Size="0" Data_creation="31.03.2018 11:06:10" Extension=".cs" />
+        </directory>
+      </directory>
+      <directory Readonly="false" Name="Properties">
+        <File Readonly="false" Name="AssemblyInfo.cs" Size="2039" Data_creation="31.03.2018 11:06:10" Extension=".cs" />
+        <File Readonly="false" Name="Resources.Designer.cs" Size="3477" Data_creation="31.03.2018 11:06:10" Extension=".cs" />
+        <File Readonly="false" Name="Resources.resx" Size="5612" Data_creation="31.03.2018 11:06:10" Extension=".resx" />
+        <File Readonly="false" Name="Settings.Designer.cs" Size="1097" Data_creation="31.03.2018 11:06:10" Extension=".cs" />
+        <File Readonly="false" Name="Settings.settings" Size="249" Data_creation="31.03.2018 11:06:10" Extension=".settings" />
+      </directory>
+      <File Readonly="false" Name="App.config" Size="189" Data_creation="31.03.2018 11:06:10" Extension=".config" />
+      <File Readonly="false" Name="CalcPresenter.cs" Size="4449" Data_creation="31.03.2018 11:06:10" Extension=".cs" />
+      <File Readonly="false" Name="Calculator.csproj" Size="3683" Data_creation="31.03.2018 11:06:10" Extension=".csproj" />
+      <File Readonly="false" Name="Form1.cs" Size="23577" Data_creation="31.03.2018 11:06:10" Extension=".cs" />
+      <File Readonly="false" Name="Form1.Designer.cs" Size="34362" Data_creation="31.03.2018 11:06:10" Extension=".cs" />
+      <File Readonly="false" Name="Form1.resx" Size="44943" Data_creation="31.03.2018 11:06:10" Extension=".resx" />
+      <File Readonly="false" Name="ICalc.cs" Size="655" Data_creation="31.03.2018 11:06:10" Extension=".cs" />
+      <File Readonly="false" Name="Model.cs" Size="1187" Data_creation="31.03.2018 11:06:10" Extension=".cs" />
+      <File Readonly="false" Name="Program.cs" Size="578" Data_creation="31.03.2018 11:06:10" Extension=".cs" />
+      <File Readonly="false" Name="Windows_Calculator_Icon.ico" Size="25749" Data_creation="31.03.2018 11:06:10" Extension=".ico" />
+    </directory>
+    <File Readonly="false" Name="Calculator.sln" Size="1129" Data_creation="31.03.2018 11:06:10" Extension=".sln" />
+  </directory>
+  <directory Readonly="false" Name="Composite_Xml_File_System">
+    <directory Readonly="false" Name=".vs">
+      <directory Readonly="false" Name="Composite_Xml_File_System">
+        <directory Readonly="false" Name="v15">
+          <File Readonly="false" Name=".suo" Size="30720" Data_creation="21.04.2018 9:25:42" Extension=".suo" />
+        </directory>
+      </directory>
+    </directory>
+    <directory Readonly="false" Name="Composite_Xml_File_System">
+      <directory Readonly="false" Name="bin">
+        <directory Readonly="false" Name="Debug">
+          <File Readonly="false" Name="Composite_Xml_File_System.exe" Size="14848" Data_creation="20.04.2018 19:19:07" Extension=".exe" />
+          <File Readonly="false" Name="Composite_Xml_File_System.exe.config" Size="189" Data_creation="20.04.2018 19:19:07" Extension=".config" />
+          <File Readonly="false" Name="Composite_Xml_File_System.pdb" Size="38400" Data_creation="20.04.2018 19:19:07" Extension=".pdb" />
+          <File Readonly="false" Name="file_structure.xml" Size="52408" Data_creation="20.04.2018 19:26:28" Extension=".xml" />
+        </directory>
+      </directory>
+      <directory Readonly="false" Name="obj">
+        <directory Readonly="false" Name="Debug">
+          <directory Readonly="false" Name="TempPE" />
+          <File Readonly="false" Name="Composite_Xml_File_System.csproj.CoreCompileInputs.cache" Size="42" Data_creation="20.04.2018 19:19:08" Extension=".cache" />
+          <File Readonly="false" Name="Composite_Xml_File_System.csproj.FileListAbsolute.txt" Size="3600" Data_creation="20.04.2018 19:19:08" Extension=".txt" />
+          <File Readonly="false" Name="Composite_Xml_File_System.csproj.GenerateResource.Cache" Size="1012" Data_creation="20.04.2018 19:19:08" Extension=".Cache" />
+          <File Readonly="false" Name="Composite_Xml_File_System.csprojResolveAssemblyReference.cache" Size="2384" Data_creation="20.04.2018 19:19:08" Extension=".cache" />
+          <File Readonly="false" Name="Composite_Xml_File_System.exe" Size="14848" Data_creation="20.04.2018 19:19:07" Extension=".exe" />
+          <File Readonly="false" Name="Composite_Xml_File_System.Form1.resources" Size="180" Data_creation="20.04.2018 19:24:40" Extension=".resources" />
+          <File Readonly="false" Name="Composite_Xml_File_System.pdb" Size="38400" Data_creation="20.04.2018 19:19:08" Extension=".pdb" />
+          <File Readonly="false" Name="Composite_Xml_File_System.Properties.Resources.resources" Size="180" Data_creation="20.04.2018 19:19:08" Extension=".resources" />
+          <File Readonly="false" Name="CoreCompileInputs.cache" Size="42" Data_creation="21.04.2018 9:19:22" Extension=".cache" />
+          <File Readonly="false" Name="DesignTimeResolveAssemblyReferences.cache" Size="868" Data_creation="21.04.2018 9:24:34" Extension=".cache" />
+          <File Readonly="false" Name="DesignTimeResolveAssemblyReferencesInput.cache" Size="7321" Data_creation="20.04.2018 19:19:08" Extension=".cache" />
+          <File Readonly="false" Name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" Size="0" Data_creation="20.04.2018 19:19:07" Extension=".cs" />
+          <File Readonly="false" Name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" Size="0" Data_creation="20.04.2018 19:19:07" Extension=".cs" />
+          <File Readonly="false" Name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" Size="0" Data_creation="20.04.2018 19:19:08" Extension=".cs" />
+        </directory>
+      </directory>
+      <directory Readonly="false" Name="Properties">
+        <File Readonly="false" Name="AssemblyInfo.cs" Size="2069" Data_creation="20.04.2018 19:19:07" Extension=".cs" />
+        <File Readonly="false" Name="Resources.Designer.cs" Size="3507" Data_creation="20.04.2018 19:19:07" Extension=".cs" />
+        <File Readonly="false" Name="Resources.resx" Size="5612" Data_creation="20.04.2018 19:19:07" Extension=".resx" />
+        <File Readonly="false" Name="Settings.Designer.cs" Size="1112" Data_creation="20.04.2018 19:19:07" Extension=".cs" />
+        <File Readonly="false" Name="Settings.settings" Size="249" Data_creation="20.04.2018 19:19:07" Extension=".settings" />
+      </directory>
+      <File Readonly="false" Name="App.config" Size="189" Data_creation="20.04.2018 19:19:07" Extension=".config" />
+      <File Readonly="false" Name="Component.cs" Size="730" Data_creation="20.04.2018 19:19:07" Extension=".cs" />
+      <File Readonly="false" Name="Composite_Xml_File_System.csproj" Size="3840" Data_creation="20.04.2018 19:19:07" Extension=".csproj" />
+      <File Readonly="false" Name="Directory_composite.cs" Size="1013" Data_creation="20.04.2018 19:19:07" Extension=".cs" />
+      <File Readonly="false" Name="File_Leaf.cs" Size="651" Data_creation="20.04.2018 19:19:07" Extension=".cs" />
+      <File Readonly="false" Name="Form1.cs" Size="998" Data_creation="20.04.2018 19:19:07" Extension=".cs" />
+      <File Readonly="false" Name="Form1.Designer.cs" Size="4558" Data_creation="20.04.2018 19:19:07" Extension=".cs" />
+      <File Readonly="false" Name="Form1.resx" Size="5817" Data_creation="20.04.2018 19:19:07" Extension=".resx" />
+      <File Readonly="false" Name="Ifiles.cs" Size="216" Data_creation="20.04.2018 19:19:07" Extension=".cs" />
+      <File Readonly="false" Name="Model.cs" Size="4500" Data_creation="20.04.2018 19:19:07" Extension=".cs" />
+      <File Readonly="false" Name="Presenter.cs" Size="647" Data_creation="20.04.2018 19:19:07" Extension=".cs" />
+      <File Readonly="false" Name="Program.cs" Size="577" Data_creation="20.04.2018 19:19:07" Extension=".cs" />
+    </directory>
+    <File Readonly="false" Name="Composite_Xml_File_System.sln" Size="1174" Data_creation="20.04.2018 19:19:07" Extension=".sln" />
+  </directory>
+  <directory Readonly="false" Name="Cs_Les3_files">
+    <directory Readonly="false" Name=".vs">
+      <directory Readonly="false" Name="Cs_Les3_files">
+        <directory Readonly="false" Name="v15">
+          <directory Readonly="false" Name="Server">
+            <directory Readonly="false" Name="sqlite3">
+              <File Readonly="false" Name="db.lock" Size="0" Data_creation="13.01.2018 9:58:59" Extension=".lock" />
+              <File Readonly="false" Name="storage.ide" Size="454656" Data_creation="13.01.2018 9:58:59" Extension=".ide" />
+            </directory>
+          </directory>
+          <File Readonly="false" Name=".suo" Size="38912" Data_creation="13.01.2018 9:58:59" Extension=".suo" />
+          <File Readonly="false" Name="_suo.doc" Size="49664" Data_creation="13.01.2018 9:58:59" Extension=".doc" />
+        </directory>
+      </directory>
+    </directory>
+    <directory Readonly="false" Name="Cs_Les3_files">
+      <directory Readonly="false" Name="bin">
+        <directory Readonly="false" Name="Debug">
+          <File Readonly="false" Name="Cs_Les3_files.exe" Size="7168" Data_creation="13.01.2018 9:58:59" Extension=".exe" />
+          <File Readonly="false" Name="Cs_Les3_files.exe.config" Size="189" Data_creation="13.01.2018 9:58:59" Extension=".config" />
+          <File Readonly="false" Name="Cs_Les3_files.pdb" Size="17920" Data_creation="13.01.2018 9:58:59" Extension=".pdb" />
+          <File Readonly="false" Name="settings.myfile" Size="35" Data_creation="13.01.2018 9:58:59" Extension=".myfile" />
+        </directory>
+      </directory>
+      <directory Readonly="false" Name="obj">
+        <directory Readonly="false" Name="Debug">
+          <directory Readonly="false" Name="TempPE" />
+          <File Readonly="false" Name="CoreCompileInputs.cache" Size="42" Data_creation="13.01.2018 10:01:50" Extension=".cache" />
+          <File Readonly="false" Name="Cs_Les3_files.csproj.CoreCompileInputs.cache" Size="42" Data_creation="13.01.2018 9:58:59" Extension=".cache" />
+          <File Readonly="false" Name="Cs_Les3_files.csproj.FileListAbsolute.txt" Size="1211" Data_creation="13.01.2018 9:58:59" Extension=".txt" />
+          <File Readonly="false" Name="Cs_Les3_files.csprojResolveAssemblyReference.cache" Size="1922" Data_creation="13.01.2018 9:58:59" Extension=".cache" />
+          <File Readonly="false" Name="Cs_Les3_files.exe" Size="7168" Data_creation="13.01.2018 9:58:59" Extension=".exe" />
+          <File Readonly="false" Name="Cs_Les3_files.pdb" Size="17920" Data_creation="13.01.2018 9:58:59" Extension=".pdb" />
+          <File Readonly="false" Name="DesignTimeResolveAssemblyReferencesInput.cache" Size="6797" Data_creation="13.01.2018 9:58:59" Extension=".cache" />
+          <File Readonly="false" Name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" Size="0" Data_creation="13.01.2018 9:58:59" Extension=".cs" />
+          <File Readonly="false" Name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" Size="0" Data_creation="13.01.2018 9:58:59" Extension=".cs" />
+          <File Readonly="false" Name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" Size="0" Data_creation="13.01.2018 9:58:59" Extension=".cs" />
+        </directory>
+      </directory>
+      <directory Readonly="false" Name="Properties">
+        <File Readonly="false" Name="AssemblyInfo.cs" Size="2045" Data_creation="13.01.2018 9:58:59" Extension=".cs" />
+      </directory>
+      <File Readonly="false" Name="App.config" Size="189" Data_creation="13.01.2018 9:58:59" Extension=".config" />
+      <File Readonly="false" Name="Cs_Les3_files.csproj" Size="2335" Data_creation="13.01.2018 9:58:59" Extension=".csproj" />
+      <File Readonly="false" Name="Program.cs" Size="3453" Data_creation="13.01.2018 9:58:59" Extension=".cs" />
+    </directory>
+    <File Readonly="false" Name="Cs_Les3_files.sln" Size="1138" Data_creation="13.01.2018 9:58:59" Extension=".sln" />
+  </directory>
+  <directory Readonly="false" Name="Decorator_professions">
+    <directory Readonly="false" Name=".vs">
+      <directory Readonly="false" Name="Decorator_professions">
+        <directory Readonly="false" Name="v15">
+          <directory Readonly="false" Name="Server">
+            <directory Readonly="false" Name="sqlite3">
+              <File Readonly="false" Name="db.lock" Size="0" Data_creation="17.04.2018 19:44:42" Extension=".lock" />
+              <File Readonly="false" Name="storage.ide" Size="675840" Data_creation="17.04.2018 19:44:42" Extension=".ide" />
+            </directory>
+          </directory>
+          <File Readonly="false" Name=".suo" Size="85504" Data_creation="17.04.2018 19:48:38" Extension=".suo" />
+          <File Readonly="false" Name="_suo(1).doc" Size="272896" Data_creation="17.04.2018 19:44:42" Extension=".doc" />
+          <File Readonly="false" Name="_suo.doc" Size="74240" Data_creation="17.04.2018 19:44:42" Extension=".doc" />
+        </directory>
+      </directory>
+    </directory>
+    <directory Readonly="false" Name="Decorator_professions">
+      <directory Readonly="false" Name="bin">
+        <directory Readonly="false" Name="Debug">
+          <File Readonly="false" Name="Decorator_professions.exe" Size="24064" Data_creation="17.04.2018 19:44:41" Extension=".exe" />
+          <File Readonly="false" Name="Decorator_professions.exe.config" Size="236" Data_creation="17.04.2018 19:44:41" Extension=".config" />
+          <File Readonly="false" Name="Decorator_professions.pdb" Size="60928" Data_creation="17.04.2018 19:44:42" Extension=".pdb" />
+        </directory>
+        <directory Readonly="false" Name="Release" />
+      </directory>
+      <directory Readonly="false" Name="Decorator">
+        <directory Readonly="false" Name="Elfs_Branch">
+          <File Readonly="false" Name="Decor_Elf_Archer.cs" Size="362" Data_creation="17.04.2018 20:56:02" Extension=".cs" />
+          <File Readonly="false" Name="Decor_Elf_Engry_Mag.cs" Size="354" Data_creation="17.04.2018 20:56:02" Extension=".cs" />
+          <File Readonly="false" Name="Decor_Elf_Kind_Mag.cs" Size="363" Data_creation="17.04.2018 20:56:02" Extension=".cs" />
+          <File Readonly="false" Name="Decor_Elf_Mag.cs" Size="352" Data_creation="17.04.2018 20:56:02" Extension=".cs" />
+          <File Readonly="false" Name="Decor_Elf_Varior.cs" Size="359" Data_creation="17.04.2018 20:54:13" Extension=".cs" />
+        </directory>
+        <directory Readonly="false" Name="Mans_Branch">
+          <File Readonly="false" Name="Decor_Archer.cs" Size="350" Data_creation="17.04.2018 20:53:39" Extension=".cs" />
+          <File Readonly="false" Name="Decor_Knight.cs" Size="352" Data_creation="17.04.2018 20:53:39" Extension=".cs" />
+          <File Readonly="false" Name="Decor_SwordKeeper.cs" Size="359" Data_creation="17.04.2018 20:53:39" Extension=".cs" />
+          <File Readonly="false" Name="Decor_Varrior.cs" Size="345" Data_creation="17.04.2018 20:53:39" Extension=".cs" />
+        </directory>
+        <File Readonly="false" Name="Elf.cs" Size="232" Data_creation="17.04.2018 20:54:23" Extension=".cs" />
+        <File Readonly="false" Name="Entity.cs" Size="282" Data_creation="17.04.2018 20:54:23" Extension=".cs" />
+        <File Readonly="false" Name="EntityDecorator.cs" Size="248" Data_creation="17.04.2018 19:44:41" Extension=".cs" />
+        <File Readonly="false" Name="Man.cs" Size="232" Data_creation="17.04.2018 20:54:23" Extension=".cs" />
+      </directory>
+      <directory Readonly="false" Name="obj">
+        <directory Readonly="false" Name="Debug">
+          <directory Readonly="false" Name="TempPE" />
+          <File Readonly="false" Name="Decorator_professions.csproj.CoreCompileInputs.cache" Size="42" Data_creation="17.04.2018 19:44:42" Extension=".cache" />
+          <File Readonly="false" Name="Decorator_professions.csproj.FileListAbsolute.txt" Size="2274" Data_creation="17.04.2018 19:44:42" Extension=".txt" />
+          <File Readonly="false" Name="Decorator_professions.csproj.GenerateResource.cache" Size="1012" Data_creation="17.04.2018 19:44:42" Extension=".cache" />
+          <File Readonly="false" Name="Decorator_professions.csprojResolveAssemblyReference.cache" Size="15153" Data_creation="17.04.2018 19:44:42" Extension=".cache" />
+          <File Readonly="false" Name="Decorator_professions.exe" Size="24064" Data_creation="17.04.2018 19:44:41" Extension=".exe" />
+          <File Readonly="false" Name="Decorator_professions.Form1.resources" Size="180" Data_creation="17.04.2018 19:44:41" Extension=".resources" />
+          <File Readonly="false" Name="Decorator_professions.pdb" Size="60928" Data_creation="17.04.2018 19:44:42" Extension=".pdb" />
+          <File Readonly="false" Name="Decorator_professions.Properties.Resources.resources" Size="180" Data_creation="17.04.2018 19:44:41" Extension=".resources" />
+          <File Readonly="false" Name="DesignTimeResolveAssemblyReferences.cache" Size="22180" Data_creation="17.04.2018 19:44:41" Extension=".cache" />
+          <File Readonly="false" Name="DesignTimeResolveAssemblyReferencesInput.cache" Size="7280" Data_creation="17.04.2018 19:44:41" Extension=".cache" />
+          <File Readonly="false" Name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" Size="0" Data_creation="17.04.2018 19:44:41" Extension=".cs" />
+          <File Readonly="false" Name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" Size="0" Data_creation="17.04.2018 19:44:41" Extension=".cs" />
+          <File Readonly="false" Name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" Size="0" Data_creation="17.04.2018 19:44:41" Extension=".cs" />
+        </directory>
+      </directory>
+      <directory Readonly="false" Name="Properties">
+        <File Readonly="false" Name="AssemblyInfo.cs" Size="2061" Data_creation="17.04.2018 19:44:41" Extension=".cs" />
+        <File Readonly="false" Name="Resources.Designer.cs" Size="3499" Data_creation="17.04.2018 19:44:41" Extension=".cs" />
+        <File Readonly="false" Name="Resources.resx" Size="5612" Data_creation="17.04.2018 19:44:41" Extension=".resx" />
+        <File Readonly="false" Name="Settings.Designer.cs" Size="1108" Data_creation="17.04.2018 19:44:41" Extension=".cs" />
+        <File Readonly="false" Name="Settings.settings" Size="249" Data_creation="17.04.2018 19:44:42" Extension=".settings" />
+      </directory>
+      <File Readonly="false" Name="App.config" Size="236" Data_creation="17.04.2018 19:44:41" Extension=".config" />
+      <File Readonly="false" Name="Decorator_professions.csproj" Size="4613" Data_creation="17.04.2018 19:44:41" Extension=".csproj" />
+      <File Readonly="false" Name="Form1.cs" Size="7650" Data_creation="17.04.2018 19:44:41" Extension=".cs" />
+      <File Readonly="false" Name="Form1.Designer.cs" Size="22966" Data_creation="17.04.2018 19:44:41" Extension=".cs" />
+      <File Readonly="false" Name="Form1.resx" Size="6206" Data_creation="17.04.2018 19:44:41" Extension=".resx" />
+      <File Readonly="false" Name="Iprofessions.cs" Size="560" Data_creation="17.04.2018 19:44:41" Extension=".cs" />
+      <File Readonly="false" Name="Model.cs" Size="1690" Data_creation="17.04.2018 19:44:41" Extension=".cs" />
+      <File Readonly="false" Name="Presenter.cs" Size="1226" Data_creation="17.04.2018 19:44:41" Extension=".cs" />
+      <File Readonly="false" Name="Program.cs" Size="573" Data_creation="17.04.2018 19:44:41" Extension=".cs" />
+      <File Readonly="false" Name="vertical_progressBar.cs" Size="558" Data_creation="17.04.2018 19:44:41" Extension=".cs" />
+    </directory>
+    <File Readonly="false" Name="Decorator_professions.sln" Size="1162" Data_creation="17.04.2018 19:44:41" Extension=".sln" />
+  </directory>
+  <directory Readonly="false" Name="Flyweight_MilitaryBase">
+    <directory Readonly="false" Name="Flyweight_MilitaryBase">
+      <directory Readonly="false" Name="bin">
+        <directory Readonly="false" Name="Debug">
+          <File Readonly="false" Name="Flyweight_MilitaryBase.exe" Size="204800" Data_creation="21.04.2018 8:56:44" Extension=".exe" />
+          <File Readonly="false" Name="Flyweight_MilitaryBase.exe.config" Size="189" Data_creation="21.04.2018 8:56:44" Extension=".config" />
+          <File Readonly="false" Name="Flyweight_MilitaryBase.pdb" Size="44544" Data_creation="21.04.2018 8:56:44" Extension=".pdb" />
+        </directory>
+        <directory Readonly="false" Name="Release" />
+      </directory>
+      <directory Readonly="false" Name="Images">
+        <File Readonly="false" Name="Avia.jpg" Size="2338" Data_creation="21.04.2018 8:56:44" Extension=".jpg" />
+        <File Readonly="false" Name="Heavy.jpg" Size="2876" Data_creation="21.04.2018 8:56:44" Extension=".jpg" />
+        <File Readonly="false" Name="Light.jpg" Size="6069" Data_creation="21.04.2018 8:56:44" Extension=".jpg" />
+        <File Readonly="false" Name="Soldier.jpg" Size="2669" Data_creation="21.04.2018 8:56:44" Extension=".jpg" />
+        <File Readonly="false" Name="Thumbs.db" Size="111616" Data_creation="21.04.2018 8:56:44" Extension=".db" />
+        <File Readonly="false" Name="transport.jpg" Size="6047" Data_creation="21.04.2018 8:56:44" Extension=".jpg" />
+        <File Readonly="false" Name="Карта_игры.jpg" Size="166218" Data_creation="21.04.2018 8:56:44" Extension=".jpg" />
+      </directory>
+      <directory Readonly="false" Name="obj">
+        <directory Readonly="false" Name="Debug">
+          <directory Readonly="false" Name="TempPE" />
+          <File Readonly="false" Name="DesignTimeResolveAssemblyReferences.cache" Size="1464" Data_creation="21.04.2018 8:56:44" Extension=".cache" />
+          <File Readonly="false" Name="DesignTimeResolveAssemblyReferencesInput.cache" Size="7228" Data_creation="21.04.2018 8:56:44" Extension=".cache" />
+          <File Readonly="false" Name="Flyweight_MilitaryBase.csproj.CoreCompileInputs.cache" Size="42" Data_creation="21.04.2018 8:56:44" Extension=".cache" />
+          <File Readonly="false" Name="Flyweight_MilitaryBase.csproj.FileListAbsolute.txt" Size="2334" Data_creation="21.04.2018 8:56:44" Extension=".txt" />
+          <File Readonly="false" Name="Flyweight_MilitaryBase.csproj.GenerateResource.cache" Size="1012" Data_creation="21.04.2018 8:56:44" Extension=".cache" />
+          <File Readonly="false" Name="Flyweight_MilitaryBase.csprojResolveAssemblyReference.cache" Size="13867" Data_creation="21.04.2018 8:56:44" Extension=".cache" />
+          <File Readonly="false" Name="Flyweight_MilitaryBase.exe" Size="204800" Data_creation="21.04.2018 8:56:44" Extension=".exe" />
+          <File Readonly="false" Name="Flyweight_MilitaryBase.Form1.resources" Size="187851" Data_creation="21.04.2018 8:56:45" Extension=".resources" />
+          <File Readonly="false" Name="Flyweight_MilitaryBase.pdb" Size="44544" Data_creation="21.04.2018 8:56:45" Extension=".pdb" />
+          <File Readonly="false" Name="Flyweight_MilitaryBase.Properties.Resources.resources" Size="180" Data_creation="21.04.2018 8:56:45" Extension=".resources" />
+          <File Readonly="false" Name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" Size="0" Data_creation="21.04.2018 8:56:44" Extension=".cs" />
+          <File Readonly="false" Name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" Size="0" Data_creation="21.04.2018 8:56:44" Extension=".cs" />
+          <File Readonly="false" Name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" Size="0" Data_creation="21.04.2018 8:56:44" Extension=".cs" />
+        </directory>
+      </directory>
+      <directory Readonly="false" Name="Properties">
+        <File Readonly="false" Name="AssemblyInfo.cs" Size="2063" Data_creation="21.04.2018 8:56:45" Extension=".cs" />
+        <File Readonly="false" Name="Resources.Designer.cs" Size="3501" Data_creation="21.04.2018 8:56:45" Extension=".cs" />
+        <File Readonly="false" Name="Resources.resx" Size="5612" Data_creation="21.04.2018 8:56:45" Extension=".resx" />
+        <File Readonly="false" Name="Settings.Designer.cs" Size="1109" Data_creation="21.04.2018 8:56:45" Extension=".cs" />
+        <File Readonly="false" Name="Settings.settings" Size="249" Data_creation="21.04.2018 8:56:45" Extension=".settings" />
+      </directory>
+      <directory Readonly="false" Name="Technic">
+        <File Readonly="false" Name="Avia.cs" Size="364" Data_creation="21.04.2018 8:56:45" Extension=".cs" />
+        <File Readonly="false" Name="Heavy.cs" Size="366" Data_creation="21.04.2018 8:56:45" Extension=".cs" />
+        <File Readonly="false" Name="Light.cs" Size="367" Data_creation="21.04.2018 8:56:45" Extension=".cs" />
+        <File Readonly="false" Name="Soldier.cs" Size="388" Data_creation="21.04.2018 8:56:45" Extension=".cs" />
+        <File Readonly="false" Name="Technic.cs" Size="354" Data_creation="21.04.2018 8:56:45" Extension=".cs" />
+        <File Readonly="false" Name="TechnicFactory.cs" Size="775" Data_creation="21.04.2018 8:56:45" Extension=".cs" />
+        <File Readonly="false" Name="Transport.cs" Size="396" Data_creation="21.04.2018 8:56:45" Extension=".cs" />
+      </directory>
+      <File Readonly="false" Name="App.config" Size="189" Data_creation="21.04.2018 8:56:44" Extension=".config" />
+      <File Readonly="false" Name="Flyweight_MilitaryBase.csproj" Size="4047" Data_creation="21.04.2018 8:56:44" Extension=".csproj" />
+      <File Readonly="false" Name="Form1.cs" Size="7387" Data_creation="21.04.2018 8:56:44" Extension=".cs" />
+      <File Readonly="false" Name="Form1.Designer.cs" Size="7441" Data_creation="21.04.2018 8:56:44" Extension=".cs" />
+      <File Readonly="false" Name="Form1.resx" Size="286525" Data_creation="21.04.2018 8:56:44" Extension=".resx" />
+      <File Readonly="false" Name="Imilitary.cs" Size="353" Data_creation="21.04.2018 8:56:44" Extension=".cs" />
+      <File Readonly="false" Name="Model_ClientFlyweight.cs" Size="1167" Data_creation="21.04.2018 8:56:44" Extension=".cs" />
+      <File Readonly="false" Name="Presenter.cs" Size="2501" Data_creation="21.04.2018 8:56:45" Extension=".cs" />
+      <File Readonly="false" Name="Program.cs" Size="660" Data_creation="21.04.2018 8:56:45" Extension=".cs" />
+    </directory>
+    <File Readonly="false" Name="Flyweight_MilitaryBase.sln" Size="1165" Data_creation="21.04.2018 8:56:44" Extension=".sln" />
+  </directory>
+  <directory Readonly="false" Name="Pilot_Simulator">
+    <directory Readonly="false" Name=".vs">
+      <directory Readonly="false" Name="Pilot_Simulator">
+        <directory Readonly="false" Name="v15">
+          <File Readonly="false" Name=".suo" Size="50176" Data_creation="24.02.2018 9:01:19" Extension=".suo" />
+        </directory>
+      </directory>
+    </directory>
+    <directory Readonly="false" Name="Pilot_Simulator">
+      <directory Readonly="false" Name="bin">
+        <directory Readonly="false" Name="Debug">
+          <File Readonly="false" Name="Pilot_Simulator.exe" Size="14336" Data_creation="24.02.2018 9:01:19" Extension=".exe" />
+          <File Readonly="false" Name="Pilot_Simulator.exe.config" Size="189" Data_creation="24.02.2018 9:01:29" Extension=".config" />
+          <File Readonly="false" Name="Pilot_Simulator.pdb" Size="28160" Data_creation="24.02.2018 9:01:29" Extension=".pdb" />
+        </directory>
+      </directory>
+      <directory Readonly="false" Name="obj">
+        <directory Readonly="false" Name="Debug">
+          <directory Readonly="false" Name="TempPE" />
+          <File Readonly="false" Name="CoreCompileInputs.cache" Size="42" Data_creation="24.02.2018 9:01:29" Extension=".cache" />
+          <File Readonly="false" Name="DesignTimeResolveAssemblyReferencesInput.cache" Size="6809" Data_creation="24.02.2018 9:01:29" Extension=".cache" />
+          <File Readonly="false" Name="Pilot_Simulator.csproj.CoreCompileInputs.cache" Size="42" Data_creation="24.02.2018 9:01:29" Extension=".cache" />
+          <File Readonly="false" Name="Pilot_Simulator.csproj.FileListAbsolute.txt" Size="1427" Data_creation="24.02.2018 9:01:29" Extension=".txt" />
+          <File Readonly="false" Name="Pilot_Simulator.csprojResolveAssemblyReference.cache" Size="1922" Data_creation="24.02.2018 9:01:29" Extension=".cache" />
+          <File Readonly="false" Name="Pilot_Simulator.exe" Size="14336" Data_creation="24.02.2018 9:01:29" Extension=".exe" />
+          <File Readonly="false" Name="Pilot_Simulator.pdb" Size="28160" Data_creation="24.02.2018 9:01:29" Extension=".pdb" />
+          <File Readonly="false" Name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" Size="0" Data_creation="24.02.2018 9:01:29" Extension=".cs" />
+          <File Readonly="false" Name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" Size="0" Data_creation="24.02.2018 9:01:29" Extension=".cs" />
+          <File Readonly="false" Name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" Size="0" Data_creation="24.02.2018 9:01:29" Extension=".cs" />
+        </directory>
+      </directory>
+      <directory Readonly="false" Name="Properties">
+        <File Readonly="false" Name="AssemblyInfo.cs" Size="2049" Data_creation="24.02.2018 9:01:29" Extension=".cs" />
+      </directory>
+      <File Readonly="false" Name="App.config" Size="189" Data_creation="24.02.2018 9:01:19" Extension=".config" />
+      <File Readonly="false" Name="Direction.cs" Size="162" Data_creation="24.02.2018 9:01:29" Extension=".cs" />
+      <File Readonly="false" Name="Dispatch.cs" Size="2597" Data_creation="24.02.2018 9:01:29" Extension=".cs" />
+      <File Readonly="false" Name="Pilot_Simulator.csproj" Size="2494" Data_creation="24.02.2018 9:01:29" Extension=".csproj" />
+      <File Readonly="false" Name="Plane.cs" Size="2934" Data_creation="24.02.2018 9:01:29" Extension=".cs" />
+      <File Readonly="false" Name="Program.cs" Size="211" Data_creation="24.02.2018 9:01:29" Extension=".cs" />
+      <File Readonly="false" Name="Simulator.cs" Size="8438" Data_creation="24.02.2018 9:01:29" Extension=".cs" />
+    </directory>
+    <File Readonly="false" Name="Pilot_Simulator.sln" Size="1144" Data_creation="24.02.2018 9:01:29" Extension=".sln" />
+  </directory>
+  <directory Readonly="false" Name="Snake">
+    <directory Readonly="false" Name=".vs">
+      <directory Readonly="false" Name="Snake">
+        <directory Readonly="false" Name="v15">
+          <directory Readonly="false" Name="Server">
+            <directory Readonly="false" Name="sqlite3">
+              <File Readonly="false" Name="db.lock" Size="0" Data_creation="10.02.2018 8:43:47" Extension=".lock" />
+              <File Readonly="false" Name="storage.ide" Size="454656" Data_creation="10.02.2018 8:43:47" Extension=".ide" />
+            </directory>
+          </directory>
+          <File Readonly="false" Name=".suo" Size="55808" Data_creation="10.02.2018 8:52:09" Extension=".suo" />
+          <File Readonly="false" Name="_suo" Size="28160" Data_creation="10.02.2018 8:43:45" Extension="" />
+          <File Readonly="false" Name="_suo(1)(1).doc" Size="53760" Data_creation="10.02.2018 8:43:47" Extension=".doc" />
+          <File Readonly="false" Name="_suo(1).doc" Size="69632" Data_creation="10.02.2018 8:43:47" Extension=".doc" />
+          <File Readonly="false" Name="_suo(2).doc" Size="61440" Data_creation="10.02.2018 8:43:47" Extension=".doc" />
+          <File Readonly="false" Name="_suo.doc" Size="56832" Data_creation="10.02.2018 8:43:45" Extension=".doc" />
+        </directory>
+      </directory>
+    </directory>
+    <directory Readonly="false" Name="Snake">
+      <directory Readonly="false" Name="bin">
+        <directory Readonly="false" Name="Debug">
+          <File Readonly="false" Name="Snake.exe" Size="10752" Data_creation="10.02.2018 8:43:47" Extension=".exe" />
+          <File Readonly="false" Name="Snake.exe.config" Size="189" Data_creation="10.02.2018 8:43:45" Extension=".config" />
+          <File Readonly="false" Name="Snake.pdb" Size="28160" Data_creation="10.02.2018 8:43:45" Extension=".pdb" />
+        </directory>
+        <directory Readonly="false" Name="Release" />
+      </directory>
+      <directory Readonly="false" Name="obj">
+        <directory Readonly="false" Name="Debug">
+          <directory Readonly="false" Name="TempPE" />
+          <File Readonly="false" Name="CoreCompileInputs.cache" Size="42" Data_creation="10.02.2018 8:43:45" Extension=".cache" />
+          <File Readonly="false" Name="DesignTimeResolveAssemblyReferencesInput.cache" Size="6749" Data_creation="10.02.2018 8:43:47" Extension=".cache" />
+          <File Readonly="false" Name="Snake.csproj.CoreCompileInputs.cache" Size="42" Data_creation="10.02.2018 8:43:47" Extension=".cache" />
+          <File Readonly="false" Name="Snake.csproj.FileListAbsolute.txt" Size="1449" Data_creation="10.02.2018 8:43:47" Extension=".txt" />
+          <File Readonly="false" Name="Snake.csprojResolveAssemblyReference.cache" Size="1922" Data_creation="10.02.2018 8:43:47" Extension=".cache" />
+          <File Readonly="false" Name="Snake.exe" Size="10752" Data_creation="10.02.2018 8:43:45" Extension=".exe" />
+          <File Readonly="false" Name="Snake.pdb" Size="28160" Data_creation="10.02.2018 8:43:45" Extension=".pdb" />
+          <File Readonly="false" Name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" Size="0" Data_creation="10.02.2018 8:43:45" Extension=".cs" />
+          <File Readonly="false" Name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" Size="0" Data_creation="10.02.2018 8:43:47" Extension=".cs" />
+          <File Readonly="false" Name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" Size="0" Data_creation="10.02.2018 8:43:45" Extension=".cs" />
+        </directory>
+      </directory>
+      <directory Readonly="false" Name="Properties">
+        <File Readonly="false" Name="AssemblyInfo.cs" Size="2029" Data_creation="10.02.2018 8:43:45" Extension=".cs" />
+      </directory>
+      <File Readonly="false" Name="App.config" Size="189" Data_creation="10.02.2018 8:43:45" Extension=".config" />
+      <File Readonly="false" Name="Apple.cs" Size="1147" Data_creation="10.02.2018 8:43:45" Extension=".cs" />
+      <File Readonly="false" Name="Boarder.cs" Size="1196" Data_creation="10.02.2018 8:43:45" Extension=".cs" />
+      <File Readonly="false" Name="Direction.cs" Size="72" Data_creation="10.02.2018 8:43:45" Extension=".cs" />
+      <File Readonly="false" Name="Game.cs" Size="1922" Data_creation="10.02.2018 8:43:45" Extension=".cs" />
+      <File Readonly="false" Name="Point.cs" Size="1213" Data_creation="10.02.2018 8:43:45" Extension=".cs" />
+      <File Readonly="false" Name="Program.cs" Size="173" Data_creation="10.02.2018 8:43:45" Extension=".cs" />
+      <File Readonly="false" Name="Snake.cs" Size="3676" Data_creation="10.02.2018 8:43:45" Extension=".cs" />
+      <File Readonly="false" Name="Snake.csproj" Size="2540" Data_creation="10.02.2018 8:43:45" Extension=".csproj" />
+    </directory>
+    <File Readonly="false" Name="Snake.sln" Size="1114" Data_creation="10.02.2018 8:43:45" Extension=".sln" />
+  </directory>
+  <directory Readonly="false" Name="SQLQuery5_Smal_Andriy_SPU-1621_1516916606">
+    <File Readonly="false" Name="SQLQuery5.sql" Size="12124" Data_creation="25.01.2018 23:42:26" Extension=".sql" />
+  </directory>
+  <directory Readonly="false" Name="Storage_polymorph">
+    <directory Readonly="false" Name=".vs">
+      <directory Readonly="false" Name="Storage_polymorph">
+        <directory Readonly="false" Name="v15">
+          <directory Readonly="false" Name="Server">
+            <directory Readonly="false" Name="sqlite3">
+              <File Readonly="false" Name="db.lock" Size="0" Data_creation="27.01.2018 10:39:34" Extension=".lock" />
+              <File Readonly="false" Name="storage.ide" Size="462848" Data_creation="27.01.2018 10:39:34" Extension=".ide" />
+            </directory>
+          </directory>
+          <File Readonly="false" Name=".suo" Size="78848" Data_creation="27.01.2018 10:39:34" Extension=".suo" />
+        </directory>
+      </directory>
+    </directory>
+    <directory Readonly="false" Name="Storage_polymorph">
+      <directory Readonly="false" Name="bin">
+        <directory Readonly="false" Name="Debug">
+          <File Readonly="false" Name="Shop - Copy.myfile" Size="286" Data_creation="27.01.2018 10:39:34" Extension=".myfile" />
+          <File Readonly="false" Name="Shop.myfile" Size="290" Data_creation="27.01.2018 10:39:34" Extension=".myfile" />
+          <File Readonly="false" Name="Storage_polymorph.exe" Size="17408" Data_creation="27.01.2018 10:39:34" Extension=".exe" />
+          <File Readonly="false" Name="Storage_polymorph.exe.config" Size="189" Data_creation="27.01.2018 10:39:34" Extension=".config" />
+          <File Readonly="false" Name="Storage_polymorph.pdb" Size="50688" Data_creation="27.01.2018 10:39:34" Extension=".pdb" />
+        </directory>
+        <directory Readonly="false" Name="Release" />
+      </directory>
+      <directory Readonly="false" Name="obj">
+        <directory Readonly="false" Name="Debug">
+          <directory Readonly="false" Name="TempPE" />
+          <File Readonly="false" Name="CoreCompileInputs.cache" Size="42" Data_creation="27.01.2018 10:39:34" Extension=".cache" />
+          <File Readonly="false" Name="DesignTimeResolveAssemblyReferencesInput.cache" Size="6821" Data_creation="27.01.2018 10:39:34" Extension=".cache" />
+          <File Readonly="false" Name="Storage_polymorph.csproj.CoreCompileInputs.cache" Size="42" Data_creation="27.01.2018 10:39:34" Extension=".cache" />
+          <File Readonly="false" Name="Storage_polymorph.csproj.FileListAbsolute.txt" Size="1505" Data_creation="27.01.2018 10:39:34" Extension=".txt" />
+          <File Readonly="false" Name="Storage_polymorph.csprojResolveAssemblyReference.cache" Size="1922" Data_creation="27.01.2018 10:39:34" Extension=".cache" />
+          <File Readonly="false" Name="Storage_polymorph.exe" Size="17408" Data_creation="27.01.2018 10:39:34" Extension=".exe" />
+          <File Readonly="false" Name="Storage_polymorph.pdb" Size="50688" Data_creation="27.01.2018 10:39:34" Extension=".pdb" />
+          <File Readonly="false" Name="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" Size="0" Data_creation="27.01.2018 10:39:34" Extension=".cs" />
+          <File Readonly="false" Name="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" Size="0" Data_creation="27.01.2018 10:39:34" Extension=".cs" />
+          <File Readonly="false" Name="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" Size="0" Data_creation="27.01.2018 10:39:34" Extension=".cs" />
+        </directory>
+      </directory>
+      <directory Readonly="false" Name="Properties">
+        <File Readonly="false" Name="AssemblyInfo.cs" Size="2053" Data_creation="27.01.2018 10:39:34" Extension=".cs" />
+      </directory>
+      <File Readonly="false" Name="App.config" Size="189" Data_creation="27.01.2018 10:39:34" Extension=".config" />
+      <File Readonly="false" Name="Dvd.cs" Size="1111" Data_creation="27.01.2018 10:39:34" Extension=".cs" />
+      <File Readonly="false" Name="Flash.cs" Size="1097" Data_creation="27.01.2018 10:39:34" Extension=".cs" />
+      <File Readonly="false" Name="Hdd.cs" Size="1113" Data_creation="27.01.2018 10:39:34" Extension=".cs" />
+      <File Readonly="false" Name="ILog.cs" Size="178" Data_creation="27.01.2018 10:39:34" Extension=".cs" />
+      <File Readonly="false" Name="Interface.cs" Size="11839" Data_creation="27.01.2018 10:39:34" Extension=".cs" />
+      <File Readonly="false" Name="ISerialize.cs" Size="3322" Data_creation="27.01.2018 10:39:34" Extension=".cs" />
+      <File Readonly="false" Name="Main_Program.cs" Size="1448" Data_creation="27.01.2018 10:39:34" Extension=".cs" />
+      <File Readonly="false" Name="menu.cs" Size="4713" Data_creation="27.01.2018 10:39:34" Extension=".cs" />
+      <File Readonly="false" Name="PriceList.cs" Size="773" Data_creation="27.01.2018 10:39:34" Extension=".cs" />
+      <File Readonly="false" Name="Storage.cs" Size="1388" Data_creation="27.01.2018 10:39:34" Extension=".cs" />
+      <File Readonly="false" Name="Storage_polymorph.csproj" Size="2681" Data_creation="27.01.2018 10:39:34" Extension=".csproj" />
+    </directory>
+    <File Readonly="false" Name="Storage_polymorph.sln" Size="1150" Data_creation="27.01.2018 10:39:34" Extension=".sln" />
+  </directory>
+</Directory>
